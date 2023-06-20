@@ -6,6 +6,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=darkhub"/>
 
 ## Codewars Profile
+<img src="https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C"/>
+
 [![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)]
 
 
