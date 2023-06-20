@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=darkhub"/>
 
 ## Codewars Profile
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=MajedTB)](https://github.com/ignacio-cuadra/github-readme-codewars)
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 
 
 ## 🎖️ Github Awards
