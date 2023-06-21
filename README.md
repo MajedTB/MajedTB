@@ -1,4 +1,4 @@
-## Welcome To My Github Profile
+## 🗻 Welcome To My Github Profile
 - Majed Bamardouf
 - Software Engineering
 
@@ -18,7 +18,7 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=dark"/>
 
-## Codewars Profile
+## 👨‍💻 Codewars Profile
 [![Profile badge](https://www.codewars.com/users/MajedTB/badges/large)](https://www.codewars.com/users/MajedTB)
 
 
