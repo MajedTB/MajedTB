@@ -1,6 +1,6 @@
 ### Welcome
-## Majed Bamardouf
-## Software Engineering
+# Majed Bamardouf
+# Software Engineering
 
 ## ⌨️ Programming Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=dark"/>
