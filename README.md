@@ -19,14 +19,11 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=dark"/>
 
-## 👨‍💻 Codewars Profile
-I am interested in problem-solving and programming competitions. Below is my Codewars profile.<br> <br>
-[![Profile badge](https://www.codewars.com/users/MajedTB/badges/large)](https://www.codewars.com/users/MajedTB)
-
-
-
 ## 🎖️ Github Awards
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=MajedTB&theme=darkhub&column=4"/>
 </a>
 
+## 👨‍💻 Codewars Profile
+I am interested in problem-solving and programming competitions. Below is my Codewars profile.<br> <br>
+[![Profile badge](https://www.codewars.com/users/MajedTB/badges/large)](https://www.codewars.com/users/MajedTB)
