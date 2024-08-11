@@ -1,6 +1,6 @@
 ## 🔰 Welcome To My Github Profile
 - I am Majed Bamardouf
-- Software Engineering Student
+- Software Engineering Graduate
 
 ## ⌨️ Programming Languages, Frameworks and Technologies
 <div>
@@ -18,11 +18,6 @@
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MajedTB&theme=dark"/>
-
-## 🎖️ Github Awards
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MajedTB&theme=darkhub&column=4"/>
-</a>
 
 ## 👨‍💻 Codewars Profile
 I am interested in problem-solving and programming competitions. Below is my Codewars profile.<br> <br>
