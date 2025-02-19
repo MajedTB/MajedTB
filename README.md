@@ -1,5 +1,5 @@
 # Welcome, I'm Majed Bamardouf
-A **Software Engineer** with **Machine Learning** experience. 
+A **Software Engineer** with **Machine Learning** concentration. 
 I am passionate about building software solutions. I enjoy working with machine learning, web, mobile, and backend in various frameworks and technologies. I'm constantly trying to learn more and get involved in more projects.
 
 ## Programming Languages
